@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Deckked/Assets/Scenes/Scene_001.unity
-  isLoaded: 1
-  isActive: 1
+- path: Assets/Scenes/Menu.unity
+  isLoaded: 0
+  isActive: 0
